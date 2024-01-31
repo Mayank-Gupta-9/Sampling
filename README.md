@@ -1,4 +1,4 @@
-# Sampling
+# Sampling and Models
 Data sampling is a statistical analysis technique used to select, manipulate and analyze a representative subset of data points to identify patterns and trends in the larger data set being examined. This involved generating additional instances of the minority class (fraudulent cases) to match the majority class (non-fraudulent cases), resulting in a balanced dataset consolidated into a single data frame.
 
 The following sampling techniques were utilized:
